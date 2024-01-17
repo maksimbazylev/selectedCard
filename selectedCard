@@ -1,0 +1,3 @@
+ const selectedCard = playerHand[cardIndex];
+      table.push(selectedCard);
+      playerHand.splice(cardIndex, 1);
